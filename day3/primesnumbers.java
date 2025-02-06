@@ -5,11 +5,12 @@ public class primesnumbers {
         while(div<=n/2){
             if(n%div==0){
                 isprime=false;
+                System.out.println("prime");
             }
-        }
-        System.out.println("prime");
+        
+       
         else{
-            System.out.println("is not a prime")
+            System.out.println("is not a prime");
         }
     }
 }
