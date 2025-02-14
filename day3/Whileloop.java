@@ -1,4 +1,4 @@
-public class Whileloop {
+packageublic class Whileloop {
     public static void main(String[] args) {
         int i=2;
         while(i<=10){
