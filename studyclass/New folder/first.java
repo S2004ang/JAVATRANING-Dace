@@ -9,7 +9,7 @@ class Main{
 }
 class first{
     public static void main(String[] args){
-        first a = new first();
+        Main a = new Main();
         a.avg();
     }
 }

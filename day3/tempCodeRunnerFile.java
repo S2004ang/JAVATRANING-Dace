@@ -1,1 +1,0 @@
-int table = sc.nextInt();
